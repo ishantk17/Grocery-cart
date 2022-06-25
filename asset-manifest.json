@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Grocery-cart/static/css/main.b4b56040.css",
+    "main.js": "/Grocery-cart/static/js/main.4e925a4b.js",
+    "static/media/istockphoto-1316968335-170667a.jpg": "/Grocery-cart/static/media/istockphoto-1316968335-170667a.a8f579dec62df8e0741b.jpg",
+    "index.html": "/Grocery-cart/index.html",
+    "main.b4b56040.css.map": "/Grocery-cart/static/css/main.b4b56040.css.map",
+    "main.4e925a4b.js.map": "/Grocery-cart/static/js/main.4e925a4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4b56040.css",
+    "static/js/main.4e925a4b.js"
+  ]
+}
